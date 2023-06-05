@@ -3,8 +3,7 @@
 # Logitech C910 Screen Mount
 
 ## Objectives
-The primary objective of this project is to develop a functional and ergonomic mount that enhances the usability of the Logitech C910 screen. By designing a custom solution, we aim to address any limitations or discomfort associated with the default mounting options provided by the manufacturer.
-
+The primary objective of this project is to develop a functional and ergonomic mount that enhances the usability of the Logitech C910. By designing a custom solution, to learn come concepts about Compliance Mechanisms 
 ## Features
 The Logitech C910 Screen Mount offers several key features:
 

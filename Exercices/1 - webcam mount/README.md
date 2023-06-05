@@ -2,9 +2,6 @@
 
 # Logitech C910 Screen Mount
 
-## Introduction
-Welcome to the Logitech C910 Screen Mount project! This repository documents the design and creation of a custom mount specifically tailored for the Logitech C910 screen. This mount provides a secure and adjustable solution for conveniently positioning the screen during use.
-
 ## Objectives
 The primary objective of this project is to develop a functional and ergonomic mount that enhances the usability of the Logitech C910 screen. By designing a custom solution, we aim to address any limitations or discomfort associated with the default mounting options provided by the manufacturer.
 

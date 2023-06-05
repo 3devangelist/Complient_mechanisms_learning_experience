@@ -53,6 +53,7 @@ After multiple iterations, a final design was achieved that met the project obje
 To secure the camera I have used this bolt!
 https://www.tme.eu/pt/details/b2.5x16_bn2041/parafusos/bossard/3757657/
 
+![image](https://github.com/3devangelist/Complient_mechanisms_learning_experience/assets/17902658/340d3033-c632-4702-b321-13309c31a9f4)
 
 #### Slicing
 ![image](https://github.com/3devangelist/Complient_mechanisms_learning_experience/assets/17902658/1854673f-9379-4ee4-9cc9-925f1a9cfc94)

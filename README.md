@@ -21,3 +21,7 @@ https://www.youtube.com/@TheFACTsofMechanicalDesign
 I welcome contributions and collaboration from the community. Whether you have suggestions for improvement, additional insights, or even your designs to share, I encourage you to participate and engage with me. Together, we can further advance the understanding and application of compliant mechanisms.
 I hope this repository proves to be a valuable resource for anyone interested in the fascinating world of compliant mechanisms. Happy exploring and designing!
 
+Exercices:
+
+Exercice 1  - Logitech C910 Screen Mount
+https://github.com/3devangelist/Complient_mechanisms_learning_experience/blob/main/Exercices/1%20-%20webcam%20mount/README.md

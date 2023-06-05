@@ -1,12 +1,10 @@
 ![image](https://github.com/3devangelist/Complient_mechanisms_learning_experience/assets/17902658/c298563d-d521-443f-a98f-4a8319875310)
 
-# Logitech C910 Screen Mount
+# Logitech C910 Mount
 
 ## Objectives
 The primary objective of this project is to develop a functional and ergonomic mount that enhances the usability of the Logitech C910. By designing a custom solution, to learn come concepts about Compliance Mechanisms 
 ## Features
-The Logitech C910 Screen Mount offers several key features:
-
 - Secure attachment: The mount ensures a stable and secure attachment of the Logitech C910 screen, minimizing any unwanted movement or vibrations.
 - Adjustable positioning: The mount provides flexibility in positioning the screen at various angles and heights, allowing for optimal viewing and comfortable use.
 - Easy installation: With a user-friendly design, the mount is simple to install and can be easily adjusted or removed as needed.

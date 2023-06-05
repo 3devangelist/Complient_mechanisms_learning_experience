@@ -25,3 +25,7 @@ Exercices:
 
 Exercice 1  - Logitech C910 Screen Mount
 https://github.com/3devangelist/Complient_mechanisms_learning_experience/blob/main/Exercices/1%20-%20webcam%20mount/README.md
+
+
+
+Thanks to CHATGPT he help on the text!

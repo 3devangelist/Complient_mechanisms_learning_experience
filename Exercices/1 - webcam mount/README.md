@@ -73,9 +73,10 @@ I want to make sure that when someone places their monitor, it feels snug and se
 
 ![image](https://github.com/3devangelist/Complient_mechanisms_learning_experience/assets/17902658/e04be95b-e323-4b6b-9dbb-2c77f77d030f)
 
-Thanks for being part of this exciting journey of furniture design! Let's make it awesome!
+Thanks for being part of this exciting journey of design! Let's make it awesome!
 The process of creating the Logitech C910 Screen Mount was an iterative journey of exploration and refinement. It involved overcoming challenges and learning from failures to arrive at a functional and efficient solution. I hope this documentation provides valuable insights and serves as a resource for others interested in creating their own customized screen mounts.
 
+Thanks to CHATGPT he help on the text!
 
 
 

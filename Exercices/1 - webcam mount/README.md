@@ -12,8 +12,7 @@ The primary objective of this project is to develop a functional and ergonomic m
 - Low on plastic use.
 
 ## Process
-
-The creation of the Logitech C910 Screen Mount involved a process that spanned approximately 5 hours, with interruptions on June 4, 2023, due to a family dinner.
+The creation involved a process that spanned approximately 5 hours, with interruptions on June 4, 2023, due to a family dinner.
 
 ### Software
 For this project, Fusion 360 was utilized as the primary software tool. Its versatility and accessibility make it suitable for collaborating with others.
